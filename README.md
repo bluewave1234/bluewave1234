@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @bluewave1234
+- 👀 I’m interested in coding python, C, ruby and build small systems using micro processors 
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+bluewave1234/bluewave1234 is a place to get some nice codes and ideas
+--->
